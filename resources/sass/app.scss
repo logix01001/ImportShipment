@@ -1,0 +1,20 @@
+@import '~vuetify/dist/vuetify.min.css';
+
+@import '~@mdi\/font/css/materialdesignicons.min.css';
+
+@import '~ant-design-vue/dist/antd.css';
+// Fonts
+//@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+@import '~izitoast/dist/css/iziToast.min.css';
+
+html {
+    overflow-y: hidden !important;
+}
+
